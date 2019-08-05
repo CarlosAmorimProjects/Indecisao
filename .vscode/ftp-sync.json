@@ -1,8 +1,8 @@
 {
     "remotePath": "./",
-    "host": "ftp.cssaa-shop.online",
-    "username": "u760854126",
-    "password": "aonCP008Wc7F",
+    "host": "ftp.precisadeajuda.pt",
+    "username": "djkajo@precisadeajuda.pt",
+    "password": "Amorim_1234",
     "port": 21,
     "secure": false,
     "protocol": "ftp",
