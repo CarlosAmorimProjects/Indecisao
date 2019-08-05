@@ -1,7 +1,7 @@
 {
-    "remotePath": "./",
-    "host": "ftp.precisadeajuda.pt",
-    "username": "djkajo@precisadeajuda.pt",
+    "remotePath": "/",
+    "host": "cp131.webserver.pt",
+    "username": "djkajo_ftp@precisadeajuda.pt",
     "password": "Amorim_1234",
     "port": 21,
     "secure": false,
