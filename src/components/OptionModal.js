@@ -8,7 +8,7 @@ const OptionModal = (props) =>
         isOpen = {!!props.selectedOption}
         onRequestClose = {props.handleCloseOptionSelected}
         contentLabel="Selected Option"
-        closeTimeoutMS={200}
+        closeTimeoutMS={0}
         className="modal"
     >
 
