@@ -6,7 +6,7 @@ const Action = (props) =>
         <button className="big-button"
          onClick={props.handlePickAction}
          disabled ={!props.hasOptions}
-         > Carregue neste botão e o computador escolhe por si</button>
+         > Carregue neste botão e a aplicação escolhe por si</button>
         </div>
 
     );

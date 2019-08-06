@@ -93,7 +93,7 @@ handleAddOption = (option) => {
     render()
     {
         const title = "Está indeciso ?";
-        const subtitle = "Introduza as opções e carregue no botão, o algoritmo de aleatoriedade faz a escolha por si !"
+        const subtitle = "Introduza as opções e carregue no botão, um avançado algoritmo de inteligência arficial faz a escolha por si !"
 
         return(
             <div>
