@@ -1,3 +1,3 @@
-# Projecto-Indecisao
+# Project-Indecisao
 
-App Indecisão criada com React.js
+App created with React.js
