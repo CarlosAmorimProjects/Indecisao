@@ -1,6 +1,6 @@
 # Projecto-Indecisao
 
-## www.precisadeajuda.pt/
+## www.precisadeajuda.pt
 
 Aplicação web criada com React.js, utilizador introduz as várias opções sobre o que está indeciso, a aplicação
 escolhe por ele.
